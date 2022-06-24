@@ -3,7 +3,7 @@
 
 ![PyPI - Downloads](https://img.shields.io/pypi/dw/curseofaros?color=g&label=Downloads&logo=pypi&style=for-the-badge)
 ![PyPI - Version](https://img.shields.io/pypi/v/curseofaros?style=for-the-badge)
-![GitHub Workflow Status (event)](https://img.shields.io/github/workflow/status/Blank-c/Curse-Of-Aros-API/Upload%20Python%20Package?style=for-the-badge)
+[![Upload Python Package](https://github.com/Blank-c/Curse-Of-Aros-API/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Blank-c/Curse-Of-Aros-API/actions/workflows/python-publish.yml)
 
 
 ## Installation
